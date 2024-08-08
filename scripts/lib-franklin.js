@@ -654,6 +654,8 @@ export const executionContext = {
   decorateIcons,
   loadBlock,
   loadCSS,
+  loadFooter,
+  loadHeader,
   loadScript,
   sampleRUM,
   toCamelCase,
