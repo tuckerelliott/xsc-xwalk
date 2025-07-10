@@ -1,5 +1,7 @@
 {
   "project": "WKND",
+  "editUrlLabel": "AEM Editor",
+  "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
   "plugins": [
     {
       "id": "library",
